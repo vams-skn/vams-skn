@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **vaishnavi.m.sankaran@gmail.com**
+- 📫 Reach me @ **vaishnavi.m.sankaran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,10 +17,10 @@
 
 ## Check out some of my projects:
 
-- [moon-prism-pixels](https://github.com/vams-skn/moon-prism-pixels): A 90s-themed Sailor Moon fansite built for the Codédex Hackathon. ⭐️ 0 Stars | Language: HTML
-- [i-diy](https://github.com/vams-skn/i-diy): A 90s-themed Sailor Moon fansite built for the Codédex Hackathon. ⭐️ 0 Stars | Language: HTML
-- [read-this-next](https://github.com/vams-skn/read-this-next): Built for the Nosu AI Hackathon - an AI web app that gives you book recommendations! ⭐️ 0 Stars | Language: HTML
-- [fields-of-polarity](https://github.com/vams-skn/fields-of-polarity): An interactive story-based web game built for the Winter MelonJam 2024. ⭐️ 0 Stars | Language: JavaScript
-- [garden-of-my-mind](https://github.com/vams-skn/garden-of-my-mind): A web app where you collect flowers every time you practice mindfulness! ⭐️ 0 Stars | Language: HTML
+[![moon-prism-pixels](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=moon-prism-pixels&theme=dark)](https://github.com/vams-skn/moon-prism-pixels)
+[![i-diy](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=i-diy&theme=dark)](https://github.com/vams-skn/i-diy)
+[![read-this-next](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=read-this-next&theme=dark)](https://github.com/vams-skn/read-this-next)
+[![fields-of-polarity](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=fields-of-polarity&theme=dark)](https://github.com/vams-skn/fields-of-polarity)
+[![garden-of-my-mind](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=garden-of-my-mind&theme=dark)](https://github.com/vams-skn/garden-of-my-mind)
 
-<p><img style="margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vams-skn&show_icons=true&theme=holi&locale=en&layout=wide" alt="vams-skn" /></p>
+<p><img style="margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vams-skn&show_icons=true&theme=holi&locale=en&layout=compact" alt="vams-skn" /></p>
