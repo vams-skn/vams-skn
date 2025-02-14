@@ -17,10 +17,9 @@
 
 ## Check out some of my projects:
 
-[![moon-prism-pixels](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=moon-prism-pixels&theme=dark)](https://github.com/vams-skn/moon-prism-pixels)
-[![i-diy](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=i-diy&theme=dark)](https://github.com/vams-skn/i-diy)
-[![read-this-next](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=read-this-next&theme=dark)](https://github.com/vams-skn/read-this-next)
-[![fields-of-polarity](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=fields-of-polarity&theme=dark)](https://github.com/vams-skn/fields-of-polarity)
-[![garden-of-my-mind](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=garden-of-my-mind&theme=dark)](https://github.com/vams-skn/garden-of-my-mind)
+[![moon-prism-pixels](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=moon-prism-pixels&theme=radical)](https://github.com/vams-skn/moon-prism-pixels)
+[![i-diy](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=i-diy&theme=radical)](https://github.com/vams-skn/i-diy)
+[![read-this-next](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=read-this-next&theme=radical)](https://github.com/vams-skn/read-this-next)
+[![fields-of-polarity](https://github-readme-stats.vercel.app/api/pin/?username=vams-skn&repo=fields-of-polarity&theme=radical)](https://github.com/vams-skn/fields-of-polarity)
 
 <p><img style="margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vams-skn&show_icons=true&theme=holi&locale=en&layout=compact" alt="vams-skn" /></p>
