@@ -6,7 +6,7 @@ UG CSE Student @ CMR Institue of Technology
 
 ## Projects
 
-### Hackathons
+### Hackathons - 3 wins
 - [Read This Next](https://github.com/vams-skn/read-this-next): AI-powered book recommendation web app
     - 🏆 'super awesome cool' prize, $1
 
