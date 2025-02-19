@@ -1,14 +1,5 @@
 <h1>Hi ✨ I'm Vaishnavi</h1>
 
-<style>
-   a {
-      color: lightcoral;
-   }
-   a:hover {
-      color: lightblue;
-   }
-</style>
-
 UG CSE Student @ CMR Institue of Technology
 - ☘️ I’m currently learning **React**
 - 📫 Reach out to me @ **vaishnavi.m.sankaran@gmail.com**
