@@ -15,7 +15,7 @@ UG CSE Student @ CMR Institue of Technology
 - [Moon Prism Pixels](https://github.com/vams-skn/moon-prism-pixels): a 90s-themed Sailor Moon - Inner Senshi fansite
     - 🏆 2<sup>nd</sup>, most nostalgic hack + won a Tamagotchi original - pretty party
 
-- [I-DIY!](https://github.com/vams-skn/i-diy): discover crafts and practice sustainability
+- [I.DIY!](https://github.com/vams-skn/i-diy): discover crafts and practice sustainability
     - 🏆 3<sup>rd</sup>, college level
 
 ### Games
