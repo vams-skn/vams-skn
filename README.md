@@ -8,7 +8,7 @@ UG CSE Student @ CMR Institue of Technology
 
 #### Hackathons - 3 wins
 - [Read This Next](https://github.com/vams-skn/read-this-next): AI-powered book recommendation web app
-    - 🏆 'super awesome cool' prize, $1, nosu AI hackathon
+    - 🏆 'super awesome cool' prize, $1, sprint.dev AI hackathon
 
 - [Garden of my Mind](https://github.com/vams-skn/garden-of-my-mind): grow a garden of pixel flowers each time you practice mindfulness
 
